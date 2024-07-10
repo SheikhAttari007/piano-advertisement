@@ -1,0 +1,44 @@
+.parent{
+    height: 500px;
+    width: 900px;
+    background-color: white;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: gray;
+    
+}
+
+li{
+    list-style-type: none;
+    display: inline; 
+    margin-left: 70px;    
+}
+span{
+    display: block;
+}
+.piano{
+    height: 400px;
+    width: 1100px;
+
+    display: flex;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+/* #pic2{
+    height: 50px;
+    width: 100px; */
+}
+/* #pic3{
+    height: 50px;
+    width: 100px;
+} */
+#pic2{
+    height: 80px;
+}
+.one{
+margin-left: 150px;
+}
